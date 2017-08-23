@@ -3,6 +3,7 @@
 body
 {
   padding-right: 0.53rem;
+  background-image: url(./resource/background.png);
 }
 
 .heading

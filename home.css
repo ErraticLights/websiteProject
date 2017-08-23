@@ -4,6 +4,7 @@ body
 {
   padding-right: 0.53rem;
   color: black;
+  background-image: url(./resource/background.png);
 }
 
 nav
@@ -33,6 +34,10 @@ div
 {
   color: white;
   background-color: rgb(111,4,179);
-  border: 0.625rem;
-  width:auto;
+  margin-top: -0.5rem;
+  padding-bottom: 0.25rem;
+  padding-right:0.53rem;
+  padding-left:0.53rem;
+  border: 0.8rem;
+  width:40rem;
 }
