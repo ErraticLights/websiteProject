@@ -3,7 +3,7 @@
 body
 {
   padding-right: 0.53rem;
-  background-image: url(./resource/background.png);
+  background-color: black;
 }
 
 .heading
@@ -19,24 +19,30 @@ nav
   font-size: 1rem;
   display: block;
   text-align: center;
-  background-color: rgb(13,161,217);
+  background-color: rgb(217,13,13);
 }
 
 nav > a
 {
-  color: white;
+  color: black;
   text-decoration: none;
   display: inline-block;
   padding: 1.25rem 0.625rem 1.25rem 0.625rem;
 }
 nav > a:hover
 {
-  background-color: rgb(142,17,221);
-  color: darkorange;
+  background-color: blue;
+  color: beige;
+}
+
+h1
+{
+  color: white;
 }
 
 p
 {
-  font-size: 1.5rem;
+  color: white;
+  font-size: 1.25rem;
   display: block;
 }

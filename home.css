@@ -4,7 +4,7 @@ body
 {
   padding-right: 0.53rem;
   color: black;
-  background-image: url(./resource/background.png);
+  background-color: black;
 }
 
 nav
@@ -13,12 +13,12 @@ nav
   font-size: 1rem;
   display: block;
   text-align: center;
-  background-color: rgb(13,161,217);
+  background-color: rgb(217,13,13);
 }
 
 nav > a
 {
-  color: white;
+  color: black;
   text-decoration: none;
   display: inline-block;
   padding: 1.25rem 0.625rem 1.25rem 0.625rem;
@@ -26,14 +26,14 @@ nav > a
 
 nav > a:hover
 {
-  background-color: rgb(142,17,221);
-  color: darkorange;
+  background-color: blue;
+  color: beige;
 }
 
 div
 {
   color: white;
-  background-color: rgb(111,4,179);
+  background-color: rgb(0,90,0);
   margin-top: -0.5rem;
   padding-bottom: 0.25rem;
   padding-right:0.53rem;
