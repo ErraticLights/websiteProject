@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "WebReaction.data.unityweb",
+"asmCodeUrl": "WebReaction.asm.code.unityweb",
+"asmMemoryUrl": "WebReaction.asm.memory.unityweb",
+"asmFrameworkUrl": "WebReaction.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
